@@ -1,6 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
-       System.out.println("Hei olen tulostin ohjelma");
+       
+        System.out.println("Hei olen tulostin ohjelma");
        String tekija = "Ville-Mikko Hakamäki";
        System.out.print("Ohjelman tekijä: ");
        System.out.println(tekija);
