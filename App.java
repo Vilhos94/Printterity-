@@ -5,7 +5,7 @@ public class App {
        System.out.print("Ohjelman tekijä: ");
        System.out.println(tekija);
        
-       //Lukujen määritelmät
+       //Lukujen määritelmät/ Double koska jakolaskusta ei tule tasalukua
        
        double luku1;
        double luku2;
