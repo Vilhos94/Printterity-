@@ -4,7 +4,9 @@ public class App {
        String tekija = "Ville-Mikko Hakamäki";
        System.out.print("Ohjelman tekijä: ");
        System.out.println(tekija);
+       
        //Lukujen määritelmät
+       
        double luku1;
        double luku2;
        double tulo;
@@ -13,13 +15,17 @@ public class App {
        double tulo4;
        luku1 = 7;
        luku2 = 2;
+       
        //Muuttujien arvot
+       
        System.out.println(luku1);
        System.out.println(luku2);
        System.out.println("luku1-muuttujan arvo on " + luku1);
        System.out.println("luku2-muuttujan arvo on " + luku2);
+       
        //Laskutoimitukset
-        tulo = luku1 * luku2;
+       
+       tulo = luku1 * luku2;
         System.out.println("luku1 * luku2 = " + tulo);
         tulo2 = luku1 / luku2;
         System.out.println("luku1 / luku2 = " + tulo2);
